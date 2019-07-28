@@ -1,6 +1,6 @@
 # TechTinkering - Videos
 
-This repo contains the source files used to create the TechTinkering videos published on the [TechTinkering Youtube Channel](https://youtube.com/techtinkering).
+This repo contains the source files used to create the TechTinkering videos published on the [TechTinkering YouTube Channel](https://youtube.com/techtinkering).
 
 Many of the videos have associated articles on the [TechTinkering](https://techtinkering.com) website.
 
