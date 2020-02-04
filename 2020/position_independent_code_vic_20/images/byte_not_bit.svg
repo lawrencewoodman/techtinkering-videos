@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="576"
+   viewBox="0 0 270.93333 152.4"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/lorry/data/video/techtinkering/2020/position_independent_code_vic_20/images/byte_not_bit.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="byte_not_bit.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#19ffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.51513672"
+     inkscape:cx="512"
+     inkscape:cy="288"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="982"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-144.59998)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1448"
+       style="fill:black;fill-opacity:1;stroke:#f20000;font-family:'DejaVu Sans Mono';font-style:normal;font-weight:bold;font-size:37.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'DejaVu Sans Mono Bold';font-stretch:normal;font-variant:normal;stroke-opacity:1;"><flowRegion
+         id="flowRegion1450"
+         style="stroke:#f20000;stroke-opacity:1;font-size:37.33333333px;"><rect
+           id="rect1452"
+           width="768.57141"
+           height="348.57144"
+           x="157.14285"
+           y="127.42857"
+           style="stroke:#f20000;stroke-opacity:1;font-size:37.33333333px;" /></flowRegion><flowPara
+         id="flowPara1454"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1464"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333338px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(0.26458333,0,0,0.26458333,0,144.59998)"><flowRegion
+         id="flowRegion1466"
+         style="font-size:37.3333338px;"><rect
+           id="rect1468"
+           width="830.84741"
+           height="450.36588"
+           x="75.708054"
+           y="57.690994"
+           style="font-size:37.3333338px;" /></flowRegion><flowPara
+         id="flowPara1470" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="22.08556"
+       y="165.00023"
+       id="text1474"><tspan
+         sodipodi:role="line"
+         id="tspan1472"
+         x="22.08556"
+         y="167.49724"
+         style="stroke-width:0.26458332" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1476"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:'DejaVu Sans Mono';font-style:normal;font-weight:bold;font-size:10.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'DejaVu Sans Mono Bold';font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion1478"><rect
+           id="rect1480"
+           width="19.412323"
+           height="91.237915"
+           x="182.47583"
+           y="86.809479" /></flowRegion><flowPara
+         id="flowPara1482"></flowPara></flowRoot>    <rect
+       style="opacity:0.66100003;fill:#b3b3b3;fill-opacity:1;stroke:#f20000;stroke-width:0.90141547;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1500"
+       width="222.03481"
+       height="30.446684"
+       x="24.449265"
+       y="159.51173"
+       ry="1.108596e-14" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1484"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0.47069041,148.11197)"><flowRegion
+         id="flowRegion1486"
+         style="font-size:42.66666794px"><rect
+           id="rect1488"
+           width="850.2597"
+           height="427.07108"
+           x="85.414215"
+           y="75.162086"
+           style="font-size:42.66666794px" /></flowRegion><flowPara
+         id="flowPara1498"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000">Sorry, I mean byte not bit</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000"
+         id="flowPara1569" /></flowRoot>  </g>
+</svg>
