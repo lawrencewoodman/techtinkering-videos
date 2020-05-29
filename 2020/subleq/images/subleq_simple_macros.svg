@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="576"
+   viewBox="0 0 270.93333 152.4"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="subleq_simple_macros.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:export-filename="/home/lorry/data/video/techtinkering/2020/subleq/images/subleq_simple_macros.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <rect
+       x="168.055"
+       y="41.1952"
+       width="129.89447"
+       height="113.1736"
+       id="rect858" />
+    <rect
+       x="24.470013"
+       y="53.322464"
+       width="109.65647"
+       height="104.35709"
+       id="rect853" />
+    <rect
+       x="26.761229"
+       y="46.817165"
+       width="201.18079"
+       height="74.583397"
+       id="rect845" />
+    <rect
+       x="68.238358"
+       y="17.770464"
+       width="249.82747"
+       height="25.265848"
+       id="rect835" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="527.9333"
+     inkscape:cy="284.83285"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="990"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text833"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect835);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(1.5011174,2.9161657)"><tspan
+         x="68.238281"
+         y="26.509051"><tspan
+           style="shape-inside:url(#rect835)">SUBLEQ - Simple Macros 
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text851"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect853);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(0.52929687,-14.939627)"><tspan
+         x="24.470703"
+         y="57.692026"><tspan
+           style="fill:#0000ff">; Add a to b</tspan><tspan
+           style="font-size:4.93889px">
+</tspan></tspan><tspan
+         x="24.470703"
+         y="63.86564"><tspan
+           style="fill:#aa4400">.macro</tspan><tspan
+           style="font-size:4.93889px">      add   a b
+</tspan></tspan><tspan
+         x="24.470703"
+         y="70.039255"><tspan
+           style="font-size:4.93889px">            sble  a z
+</tspan></tspan><tspan
+         x="24.470703"
+         y="76.212869"><tspan
+           style="font-size:4.93889px">            sble  z b
+</tspan></tspan><tspan
+         x="24.470703"
+         y="82.386484"><tspan
+           style="font-size:4.93889px">            sble  z z
+</tspan></tspan><tspan
+         x="24.470703"
+         y="88.560098"><tspan
+           style="fill:#aa4400">.endm</tspan><tspan
+           style="font-size:4.93889px">
+</tspan></tspan><tspan
+         x="24.470703"
+         y="94.733713"><tspan
+           style="font-size:4.93889px">
+</tspan></tspan><tspan
+         x="24.470703"
+         y="100.90733"><tspan
+           style="fill:#0000ff">; Copy value at src to dest</tspan><tspan
+           style="font-size:4.93889px">
+</tspan></tspan><tspan
+         x="24.470703"
+         y="107.08094"><tspan
+           style="fill:#aa4400">.macro</tspan><tspan
+           style="font-size:4.93889px">      copy  src dest
+</tspan></tspan><tspan
+         x="24.470703"
+         y="113.25456"><tspan
+           style="font-size:4.93889px">            sble  dest dest
+</tspan></tspan><tspan
+         x="24.470703"
+         y="119.42817"><tspan
+           style="font-size:4.93889px">            add   src dest
+</tspan></tspan><tspan
+         x="24.470703"
+         y="125.60179"><tspan
+           style="fill:#aa4400">.endm</tspan><tspan
+           style="font-size:4.93889px">
+</tspan></tspan><tspan
+         x="24.470703"
+         y="131.7754"><tspan
+           style="font-size:4.93889px">
+</tspan></tspan><tspan
+         x="24.470703"
+         y="137.94901"><tspan
+           style="fill:#0000ff">; Jump to addr</tspan><tspan
+           style="font-size:4.93889px">
+</tspan></tspan><tspan
+         x="24.470703"
+         y="144.12263"><tspan
+           style="fill:#aa4400">.macro</tspan><tspan
+           style="font-size:4.93889px">      jump  addr
+</tspan></tspan><tspan
+         x="24.470703"
+         y="150.29624"><tspan
+           style="font-size:4.93889px">            sble  z z addr
+</tspan></tspan><tspan
+         x="24.470703"
+         y="156.46986"><tspan
+           style="fill:#aa4400">.endm</tspan><tspan
+           style="font-size:4.93889px">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text856"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect858);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-5.6996875,-2.8126737)"><tspan
+         x="168.05469"
+         y="45.565073"><tspan
+           style="fill:#0000ff">; Increment value at n</tspan><tspan
+           style="shape-inside:url(#rect858)">
+</tspan></tspan><tspan
+         x="168.05469"
+         y="51.738687"><tspan
+           style="fill:#aa4400">.macro</tspan><tspan
+           style="shape-inside:url(#rect858)">      inc   n
+</tspan></tspan><tspan
+         x="168.05469"
+         y="57.912302"><tspan
+           style="shape-inside:url(#rect858)">            sble  #-1 n
+</tspan></tspan><tspan
+         x="168.05469"
+         y="64.085916"><tspan
+           style="fill:#aa4400">.endm</tspan><tspan
+           style="shape-inside:url(#rect858)">
+</tspan></tspan><tspan
+         x="168.05469"
+         y="70.259531"><tspan
+           style="shape-inside:url(#rect858)">
+</tspan></tspan><tspan
+         x="168.05469"
+         y="76.433145"><tspan
+           style="fill:#0000ff">; Decrement value at n</tspan><tspan
+           style="shape-inside:url(#rect858)">
+</tspan></tspan><tspan
+         x="168.05469"
+         y="82.60676"><tspan
+           style="fill:#aa4400">.macro</tspan><tspan
+           style="shape-inside:url(#rect858)">      dec   n
+</tspan></tspan><tspan
+         x="168.05469"
+         y="88.780374"><tspan
+           style="shape-inside:url(#rect858)">            sble  #1 n
+</tspan></tspan><tspan
+         x="168.05469"
+         y="94.953989"><tspan
+           style="fill:#aa4400">.endm</tspan><tspan
+           style="shape-inside:url(#rect858)">
+</tspan></tspan><tspan
+         x="168.05469"
+         y="101.1276"><tspan
+           style="shape-inside:url(#rect858)">
+</tspan></tspan><tspan
+         x="168.05469"
+         y="107.30122"><tspan
+           style="fill:#0000ff">; Jump to addr if a &gt;= 0</tspan><tspan
+           style="shape-inside:url(#rect858)">
+</tspan></tspan><tspan
+         x="168.05469"
+         y="113.47483"><tspan
+           style="fill:#aa4400">.macro</tspan><tspan
+           style="shape-inside:url(#rect858)">      jge   a addr
+</tspan></tspan><tspan
+         x="168.05469"
+         y="119.64845"><tspan
+           style="shape-inside:url(#rect858)">            sble  a z gte
+</tspan></tspan><tspan
+         x="168.05469"
+         y="125.82206"><tspan
+           style="shape-inside:url(#rect858)">            jump  done
+</tspan></tspan><tspan
+         x="168.05469"
+         y="131.99568"><tspan
+           style="shape-inside:url(#rect858)">gte:        sble  z z addr
+</tspan></tspan><tspan
+         x="168.05469"
+         y="138.16929"><tspan
+           style="shape-inside:url(#rect858)">done:       sble  z z
+</tspan></tspan><tspan
+         x="168.05469"
+         y="144.3429"><tspan
+           style="fill:#aa4400">.endm</tspan><tspan
+           style="shape-inside:url(#rect858)">
+</tspan></tspan><tspan
+         x="168.05469"
+         y="150.51652"><tspan
+           style="shape-inside:url(#rect858)">
+</tspan></tspan><tspan
+         x="168.05469"
+         y="156.69013"><tspan
+           style="shape-inside:url(#rect858)">
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="168.05469"
+         y="158.7389"><tspan
+           style="shape-inside:url(#rect858)">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="200.06201"
+       y="72.722565"
+       id="text864"><tspan
+         sodipodi:role="line"
+         id="tspan862"
+         x="200.06201"
+         y="72.722565"
+         style="stroke-width:0.264583" /><tspan
+         sodipodi:role="line"
+         x="200.06201"
+         y="76.250351"
+         style="stroke-width:0.264583"
+         id="tspan866" /><tspan
+         sodipodi:role="line"
+         x="200.06201"
+         y="79.778137"
+         style="stroke-width:0.264583"
+         id="tspan868" /></text>
+  </g>
+</svg>
