@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="subleq_number_printing_clarification_title.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="/home/lorry/data/video/techtinkering/2020/subleq_vic_20/images/subleq_number_printing_clarification_title.png"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 270.93333 152.4"
+   height="576"
+   width="1024">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="34"
+     inkscape:window-x="0"
+     inkscape:window-height="990"
+     inkscape:window-width="1680"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     units="px"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="288"
+     inkscape:cx="512"
+     inkscape:zoom="0.51513672"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#19ffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-144.59998)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       ry="1.108596e-14"
+       y="153.49945"
+       x="72.523186"
+       height="42.131863"
+       width="125.88696"
+       id="rect1500"
+       style="opacity:0.661;fill:#b3b3b3;fill-opacity:1;stroke:#f20000;stroke-width:0.901415;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,0.233668,141.99044)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1484"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1486"><rect
+           y="75.162086"
+           x="85.414215"
+           height="427.07108"
+           width="850.2597"
+           id="rect1488" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000"
+         id="flowPara1498">It is the SUBLEQ routine</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000"
+         id="flowPara39">to print numbers that</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000"
+         id="flowPara43">is slow, not the VM</flowPara></flowRoot>
+    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#f20000;stroke-opacity:1"
+       id="flowRoot1448"
+       xml:space="preserve"><flowRegion
+         style="font-size:37.3333px;stroke:#f20000;stroke-opacity:1"
+         id="flowRegion1450"><rect
+           style="stroke:#f20000;stroke-opacity:1;font-size:37.33333333px;"
+           y="127.42857"
+           x="157.14285"
+           height="348.57144"
+           width="768.57141"
+           id="rect1452" /></flowRegion><flowPara
+         id="flowPara1454" /></flowRoot>
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,0,144.59998)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1464"
+       xml:space="preserve"><flowRegion
+         style="font-size:37.3333px"
+         id="flowRegion1466"><rect
+           style="font-size:37.3333338px;"
+           y="57.690994"
+           x="75.708054"
+           height="450.36588"
+           width="830.84741"
+           id="rect1468" /></flowRegion><flowPara
+         id="flowPara1470" /></flowRoot>
+    <text
+       id="text1474"
+       y="165.00023"
+       x="22.08556"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve" />
+    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1476"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1478"><rect
+           y="86.809479"
+           x="182.47583"
+           height="91.237915"
+           width="19.412323"
+           id="rect1480" /></flowRegion><flowPara
+         id="flowPara1482" /></flowRoot>
+  </g>
+</svg>
