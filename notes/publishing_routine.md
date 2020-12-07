@@ -4,6 +4,7 @@
 * Publish on Youtube 2 hours before when most people view
   - Look at Analytics > Audience > When viewers are on YouTube
   - Many are on at 18:00 GMT, so that would mean publishing at 16:00
+    but I think 17:00 makes more sense as 2 hours seems to long
 * Push Techtinkering Article
 * Tweet
 
