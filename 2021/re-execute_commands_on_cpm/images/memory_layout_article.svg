@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="620"
+   height="720"
+   viewBox="0 0 164.0422 190.5012"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="memory_layout_article.svg"
+   inkscape:export-filename="/home/lorry/data/video/techtinkering/2021/re-execute_commands_on_cpm/images/memory_layout_article.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <rect
+       x="29.045523"
+       y="195.8934"
+       width="55.053642"
+       height="18.893663"
+       id="rect837" />
+    <rect
+       x="29.045523"
+       y="195.8934"
+       width="60.79246"
+       height="14.668206"
+       id="rect837-6" />
+    <rect
+       x="29.045523"
+       y="195.8934"
+       width="49.99852"
+       height="18.293447"
+       id="rect869" />
+    <rect
+       x="29.045523"
+       y="195.8934"
+       width="51.378036"
+       height="13.19114"
+       id="rect837-5" />
+    <rect
+       x="29.045523"
+       y="195.8934"
+       width="49.99852"
+       height="18.293447"
+       id="rect898" />
+    <rect
+       x="29.045523"
+       y="195.8934"
+       width="49.99852"
+       height="18.293447"
+       id="rect837-6-5" />
+    <rect
+       x="29.045523"
+       y="195.8934"
+       width="49.99852"
+       height="18.293447"
+       id="rect927" />
+    <rect
+       x="29.045523"
+       y="195.8934"
+       width="49.99852"
+       height="18.293447"
+       id="rect837-6-5-9" />
+    <rect
+       x="29.045523"
+       y="195.8934"
+       width="49.99852"
+       height="18.293447"
+       id="rect972" />
+    <rect
+       x="29.045523"
+       y="195.8934"
+       width="49.99852"
+       height="18.293447"
+       id="rect837-6-5-9-2" />
+    <rect
+       x="29.045523"
+       y="195.8934"
+       width="49.99852"
+       height="18.293447"
+       id="rect1002" />
+    <rect
+       x="29.045523"
+       y="195.8934"
+       width="116.753"
+       height="10.854728"
+       id="rect837-6-0" />
+    <rect
+       x="29.045523"
+       y="195.8934"
+       width="49.99852"
+       height="18.293447"
+       id="rect1032" />
+    <rect
+       x="29.045523"
+       y="195.8934"
+       width="49.99852"
+       height="18.293447"
+       id="rect837-6-5-9-2-6" />
+    <rect
+       x="29.045523"
+       y="195.8934"
+       width="49.99852"
+       height="18.293447"
+       id="rect957" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="400"
+     inkscape:cy="425.84583"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="990"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.465003;stroke-linecap:round;stroke-linejoin:round"
+       id="rect884"
+       width="164.04269"
+       height="190.50121"
+       x="-0.00024704589"
+       y="-2.7221679e-06"
+       ry="1.2281903e-14" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.9525;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="rect833"
+       width="90.825577"
+       height="151.12878"
+       x="65.16394"
+       y="9.2798843"
+       ry="1.2281826e-14" />
+    <text
+       xml:space="preserve"
+       id="text835"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-21.468485,-39.774357)"><tspan
+         x="29.044922"
+         y="200.88658"><tspan
+           style="font-size:5.64444px">    BOOT  0000H</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 65.084168,143.1719 90.924072,0.0212"
+       id="path843" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 65.395978,57.102442 90.924072,0.0212"
+       id="path843-3" />
+    <text
+       xml:space="preserve"
+       id="text835-7"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837-6);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(52.697758,-47.216087)"><tspan
+         x="29.044922"
+         y="200.88658"><tspan>System parameters</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text835-3"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837-5);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-21.468485,-55.532788)"><tspan
+         x="29.044922"
+         y="200.88658"><tspan
+           style="font-size:5.64444px">TPA BASE  0100H</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text835-7-6"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837-6-5);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(75.905731,-102.40209)"><tspan
+         x="29.044922"
+         y="200.88658"><tspan>TPA</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 65.330072,43.667646 90.924088,0.0212"
+       id="path843-3-2" />
+    <text
+       xml:space="preserve"
+       id="text835-7-6-1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837-6-5-9);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(76.079331,-147.91445)"><tspan
+         x="29.044922"
+         y="200.88658"><tspan>CCP</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text835-7-6-1-7"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837-6-5-9-2);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(74.732571,-181.57144)"><tspan
+         x="29.044922"
+         y="200.88658"><tspan>BIOS</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text835-7-9"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837-6-0);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(6.264097,-21.898251)"><tspan
+         x="29.044922"
+         y="202.1351"><tspan
+           style="font-size:7.05556px">CP/M 2.2 Memory Layout</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 65.087714,27.46914 90.924086,0.0212"
+       id="path843-3-2-3" />
+    <text
+       xml:space="preserve"
+       id="text835-7-6-1-7-7"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837-6-5-9-2-6);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(74.732571,-163.66974)"><tspan
+         x="29.044922"
+         y="200.88658"><tspan>BDOS</tspan></tspan></text>
+  </g>
+</svg>
