@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="720"
+   viewBox="0 0 338.66666 190.50001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="first_program_assembly.svg"
+   inkscape:export-filename="/home/lorry/data/video/techtinkering/2021/programming_in_assembly_with_vicmon_vic_20/images/first_program_assembly.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <rect
+       x="177.13229"
+       y="31.966708"
+       width="188.10235"
+       height="180.70361"
+       id="rect1275" />
+    <rect
+       x="216.07487"
+       y="77.858974"
+       width="14.529515"
+       height="4.9197646"
+       id="rect1269" />
+    <rect
+       x="17.160146"
+       y="33.724332"
+       width="155.41332"
+       height="176.58121"
+       id="rect1108" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect2392"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="0,0.1322915"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <marker
+       style="overflow:visible"
+       id="TriangleInL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path1469" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker2122"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2120" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2040"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2038" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2)"
+         style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path1484" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1896"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1894" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DiamondLend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DiamondLend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(-7,0)"
+         style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path1433" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1734"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1732" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1694"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1692" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1660"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1658" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1339" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotS"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotS"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path1403" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1336" />
+    </marker>
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect1334"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="0,0.094722673"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect1330"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="0,0.1322915"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect1326"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="0,0.1322915"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <rect
+       x="116.0602"
+       y="10.260063"
+       width="185.21349"
+       height="15.349958"
+       id="rect1000" />
+    <rect
+       x="79.329489"
+       y="39.170205"
+       width="50.461841"
+       height="27.352974"
+       id="rect904" />
+    <rect
+       x="79.329489"
+       y="39.170205"
+       width="20.829333"
+       height="12.528819"
+       id="rect892" />
+    <rect
+       x="20.608179"
+       y="38.97142"
+       width="58.77434"
+       height="27.781428"
+       id="rect886" />
+    <rect
+       x="79.329491"
+       y="39.170204"
+       width="150.71118"
+       height="28.484844"
+       id="rect904-5" />
+    <rect
+       x="79.329491"
+       y="39.170204"
+       width="50.461842"
+       height="27.352974"
+       id="rect917" />
+    <rect
+       x="79.329491"
+       y="39.170204"
+       width="50.461842"
+       height="27.352974"
+       id="rect904-56" />
+    <rect
+       x="79.329491"
+       y="39.170204"
+       width="50.461842"
+       height="27.352974"
+       id="rect966" />
+    <rect
+       x="20.608179"
+       y="38.97142"
+       width="58.774342"
+       height="27.781427"
+       id="rect886-9" />
+    <rect
+       x="20.608179"
+       y="38.97142"
+       width="58.774342"
+       height="27.781427"
+       id="rect1026" />
+    <rect
+       x="79.329491"
+       y="39.170204"
+       width="50.461842"
+       height="27.352974"
+       id="rect904-1" />
+    <rect
+       x="79.329491"
+       y="39.170204"
+       width="50.461842"
+       height="27.352974"
+       id="rect1029" />
+    <rect
+       x="79.329491"
+       y="39.170204"
+       width="150.71118"
+       height="28.484844"
+       id="rect904-5-2" />
+    <rect
+       x="79.329491"
+       y="39.170204"
+       width="150.71118"
+       height="28.484844"
+       id="rect1032" />
+    <rect
+       x="79.329491"
+       y="39.170204"
+       width="50.461842"
+       height="27.352974"
+       id="rect904-56-7" />
+    <rect
+       x="79.329491"
+       y="39.170204"
+       width="50.461842"
+       height="27.352974"
+       id="rect1035" />
+    <rect
+       x="20.608179"
+       y="38.97142"
+       width="58.774342"
+       height="27.781427"
+       id="rect886-9-7" />
+    <rect
+       x="20.608179"
+       y="38.97142"
+       width="58.774342"
+       height="27.781427"
+       id="rect1156" />
+    <rect
+       x="79.329491"
+       y="39.170204"
+       width="50.461842"
+       height="27.352974"
+       id="rect904-1-9" />
+    <rect
+       x="79.329491"
+       y="39.170204"
+       width="50.461842"
+       height="27.352974"
+       id="rect1159" />
+    <rect
+       x="79.329491"
+       y="39.170204"
+       width="150.71118"
+       height="28.484844"
+       id="rect904-5-2-2" />
+    <rect
+       x="79.329491"
+       y="39.170204"
+       width="150.71118"
+       height="28.484844"
+       id="rect1162" />
+    <rect
+       x="79.329491"
+       y="39.170204"
+       width="50.461842"
+       height="27.352974"
+       id="rect904-56-7-0" />
+    <rect
+       x="79.329491"
+       y="39.170204"
+       width="50.461842"
+       height="27.352974"
+       id="rect1165" />
+    <marker
+       style="overflow:visible"
+       id="marker2122-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2120-3" />
+    </marker>
+    <rect
+       x="17.160147"
+       y="33.724331"
+       width="158.14034"
+       height="154.44456"
+       id="rect1108-3" />
+    <rect
+       x="17.160147"
+       y="33.724331"
+       width="131.42996"
+       height="146.65495"
+       id="rect1121" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.828125"
+     inkscape:cx="640"
+     inkscape:cy="307.66338"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1680"
+     inkscape:window-height="990"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text890"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:'DejaVu Sans Mono';font-style:normal;font-weight:bold;font-size:2.82222222px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'DejaVu Sans Mono Bold';font-stretch:normal;font-variant:normal;white-space:pre;shape-inside:url(#rect892);" />
+    <text
+       xml:space="preserve"
+       id="text1106"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1108);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-9.4865594,-20.270133)"><tspan
+         x="17.160156"
+         y="37.470114"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">TIME    = $A2             ; Jiffy clock
+</tspan></tspan><tspan
+         x="17.160156"
+         y="42.783758"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">VICCRC  = $900C           ; Freq. of sound oscillator 3
+</tspan></tspan><tspan
+         x="17.160156"
+         y="48.097403"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">VICCRE  = $900E           ; Volume
+</tspan></tspan><tspan
+         x="17.160156"
+         y="53.411047"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">
+</tspan></tspan><tspan
+         x="17.160156"
+         y="58.724692"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          JMP MAIN
+</tspan></tspan><tspan
+         x="17.160156"
+         y="64.038336"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">
+</tspan></tspan><tspan
+         x="17.160156"
+         y="69.35198"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ;-----------------------------------
+</tspan></tspan><tspan
+         x="17.160156"
+         y="74.665625"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ;            Data
+</tspan></tspan><tspan
+         x="17.160156"
+         y="79.979269"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ;-----------------------------------
+</tspan></tspan><tspan
+         x="17.160156"
+         y="85.292914"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">
+</tspan></tspan><tspan
+         x="17.160156"
+         y="90.606558"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ; Mary had a Little Lamb
+</tspan></tspan><tspan
+         x="17.160156"
+         y="95.920203"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ; stored as note,length,note,length,...
+</tspan></tspan><tspan
+         x="17.160156"
+         y="101.23385"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ; and terminated by a 0
+</tspan></tspan><tspan
+         x="17.160156"
+         y="106.54749"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">NOTES     .byt $CC,$1E,$C6,$1E,$BF,$1E,$C6,$1E
+</tspan></tspan><tspan
+         x="17.160156"
+         y="111.86114"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          .byt $CC,$1E,$CC,$1E,$CC,$3C
+</tspan></tspan><tspan
+         x="17.160156"
+         y="117.17478"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          .byt $C6,$1E,$C6,$1E,$C6,$3C
+</tspan></tspan><tspan
+         x="17.160156"
+         y="122.48842"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          .byt $CC,$1E,$D5,$1E,$D5,$3C
+</tspan></tspan><tspan
+         x="17.160156"
+         y="127.80207"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          .byt $CC,$1E,$C6,$1E,$BF,$1E,$C6,$1E
+</tspan></tspan><tspan
+         x="17.160156"
+         y="133.11571"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          .byt $CC,$1E,$CC,$1E,$CC,$1E,$CC,$1E
+</tspan></tspan><tspan
+         x="17.160156"
+         y="138.42936"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          .byt $C6,$1E,$C6,$1E,$CC,$1E,$C6,$1E
+</tspan></tspan><tspan
+         x="17.160156"
+         y="143.743"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          .byt $BF,$78,$00
+</tspan></tspan><tspan
+         x="17.160156"
+         y="149.05665"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">
+</tspan></tspan><tspan
+         x="17.160156"
+         y="154.37029"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ;-----------------------------------
+</tspan></tspan><tspan
+         x="17.160156"
+         y="159.68394"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ;            Code
+</tspan></tspan><tspan
+         x="17.160156"
+         y="164.99758"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ;-----------------------------------
+</tspan></tspan><tspan
+         x="17.160156"
+         y="170.31122"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">MAIN      LDA #$0F        ; Set volume to maximum
+</tspan></tspan><tspan
+         x="17.160156"
+         y="175.62487"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          STA VICCRE
+</tspan></tspan><tspan
+         x="17.160156"
+         y="180.93851"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">
+</tspan></tspan><tspan
+         x="17.160156"
+         y="186.25216"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          LDX #$00        ; Zero index for notes</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1106-6"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1108-3);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(159.4924,-2.5467024)" />
+    <text
+       xml:space="preserve"
+       id="text1267"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:'DejaVu Sans Mono';font-style:normal;font-weight:bold;font-size:2.82222222px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'DejaVu Sans Mono Bold';font-stretch:normal;font-variant:normal;white-space:pre;shape-inside:url(#rect1269);" />
+    <text
+       xml:space="preserve"
+       id="text1273"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1275);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-9.5620401,-18.73763)"><tspan
+         x="177.13281"
+         y="35.712302"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ; Load note
+</tspan></tspan><tspan
+         x="177.13281"
+         y="41.025946"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">NXTNOTE   LDA NOTES, X
+</tspan></tspan><tspan
+         x="177.13281"
+         y="46.33959"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          BEQ END         ; If a 0, then finish
+</tspan></tspan><tspan
+         x="177.13281"
+         y="51.653235"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">
+</tspan></tspan><tspan
+         x="177.13281"
+         y="56.966879"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ; Play note
+</tspan></tspan><tspan
+         x="177.13281"
+         y="62.280524"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          STA VICCRC      ; Turn on Speaker 3 with note in Acc
+</tspan></tspan><tspan
+         x="177.13281"
+         y="67.594168"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          INX             ; Move index to note length
+</tspan></tspan><tspan
+         x="177.13281"
+         y="72.907812"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">
+</tspan></tspan><tspan
+         x="177.13281"
+         y="78.221457"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ; Delay for length of note
+</tspan></tspan><tspan
+         x="177.13281"
+         y="83.535101"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          LDA #$00
+</tspan></tspan><tspan
+         x="177.13281"
+         y="88.848746"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          STA TIME        ; Zero 1/60 of a second timer
+</tspan></tspan><tspan
+         x="177.13281"
+         y="94.16239"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">WAIT      LDA TIME
+</tspan></tspan><tspan
+         x="177.13281"
+         y="99.476034"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          CMP NOTES, X    ; Check if clock reached note length
+</tspan></tspan><tspan
+         x="177.13281"
+         y="104.78968"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          BNE WAIT
+</tspan></tspan><tspan
+         x="177.13281"
+         y="110.10332"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">
+</tspan></tspan><tspan
+         x="177.13281"
+         y="115.41697"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ; Break between notes
+</tspan></tspan><tspan
+         x="177.13281"
+         y="120.73061"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          LDA #$00
+</tspan></tspan><tspan
+         x="177.13281"
+         y="126.04426"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          STA VICCRC
+</tspan></tspan><tspan
+         x="177.13281"
+         y="131.3579"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          STA TIME
+</tspan></tspan><tspan
+         x="177.13281"
+         y="136.67155"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">WAIT2     LDA TIME
+</tspan></tspan><tspan
+         x="177.13281"
+         y="141.98519"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          BEQ WAIT2       ; Wait for 1/60 of a second
+</tspan></tspan><tspan
+         x="177.13281"
+         y="147.29883"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">
+</tspan></tspan><tspan
+         x="177.13281"
+         y="152.61248"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ; Move to next note/length pair
+</tspan></tspan><tspan
+         x="177.13281"
+         y="157.92612"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          INX
+</tspan></tspan><tspan
+         x="177.13281"
+         y="163.23977"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          BNE NXTNOTE     ; If not 0, then get next note
+</tspan></tspan><tspan
+         x="177.13281"
+         y="168.55341"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">
+</tspan></tspan><tspan
+         x="177.13281"
+         y="173.86706"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ; Set volume to 0
+</tspan></tspan><tspan
+         x="177.13281"
+         y="179.1807"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">END       LDA #$00
+</tspan></tspan><tspan
+         x="177.13281"
+         y="184.49434"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          STA VICCRE
+</tspan></tspan><tspan
+         x="177.13281"
+         y="189.80799"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          BRK</tspan></tspan></text>
+    <rect
+       style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.673519;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect1279"
+       width="0.52916664"
+       height="159.83902"
+       x="157.88905"
+       y="15.33049"
+       ry="1.2281826e-14" />
+  </g>
+</svg>

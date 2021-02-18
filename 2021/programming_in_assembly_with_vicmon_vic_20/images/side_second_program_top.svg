@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="720"
+   viewBox="0 0 338.66666 190.50001"
+   version="1.1"
+   id="svg1215"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="side_second_program_top.svg"
+   inkscape:export-filename="/home/lorry/data/video/techtinkering/2021/programming_in_assembly_with_vicmon_vic_20/images/side_second_program_top.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs1209">
+    <rect
+       x="17.160147"
+       y="33.724331"
+       width="155.41331"
+       height="176.58121"
+       id="rect1108" />
+    <rect
+       x="17.160147"
+       y="33.724331"
+       width="155.41331"
+       height="176.58121"
+       id="rect1787" />
+    <rect
+       x="17.160147"
+       y="33.724331"
+       width="155.41331"
+       height="176.58121"
+       id="rect1108-3" />
+    <rect
+       x="17.160147"
+       y="33.724331"
+       width="155.41331"
+       height="176.58121"
+       id="rect1226" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="723.51438"
+     inkscape:cy="280.02885"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1680"
+     inkscape:window-height="990"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1212">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.47625;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect2095"
+       width="148.16667"
+       height="190.5"
+       x="189.36815"
+       y="-2.0983215e-14"
+       ry="1.2281826e-14" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.47625;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="path1248"
+       sodipodi:sides="5"
+       sodipodi:cx="215.6386"
+       sodipodi:cy="50.860452"
+       sodipodi:r1="2.3782787"
+       sodipodi:r2="1.1891394"
+       sodipodi:arg1="0.90612144"
+       sodipodi:arg2="1.53444"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       inkscape:transform-center-x="6.3847805"
+       inkscape:transform-center-y="4.0591522"
+       d="m 217.10553,52.732435 -1.42371,-0.683631 -1.37028,0.785255 0.21022,-1.565279 -1.17026,-1.060557 1.55363,-0.283765 0.64702,-1.440714 0.74997,1.389903 1.57014,0.170145 -1.09012,1.142772 z" />
+    <text
+       xml:space="preserve"
+       id="text1106"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1108-3);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(176.59079,-17.330683)"><tspan
+         x="17.160156"
+         y="37.470114"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">TIME    = $A2             ; Jiffy clock
+</tspan></tspan><tspan
+         x="17.160156"
+         y="42.783758"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">VICCRC  = $900C           ; Freq. of sound oscillator 3
+</tspan></tspan><tspan
+         x="17.160156"
+         y="48.097403"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">VICCRE  = $900E           ; Volume
+</tspan></tspan><tspan
+         x="17.160156"
+         y="53.411047"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">CCHROUT = $FFD2           ; Output char to current
+</tspan></tspan><tspan
+         x="17.160156"
+         y="58.724692"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">                          ; output device
+</tspan></tspan><tspan
+         x="17.160156"
+         y="64.038336"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">
+</tspan></tspan><tspan
+         x="17.160156"
+         y="69.35198"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          JMP MAIN
+</tspan></tspan><tspan
+         x="17.160156"
+         y="74.665625"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">
+</tspan></tspan><tspan
+         x="17.160156"
+         y="79.979269"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ;-----------------------------------
+</tspan></tspan><tspan
+         x="17.160156"
+         y="85.292914"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ;            Data
+</tspan></tspan><tspan
+         x="17.160156"
+         y="90.606558"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ;-----------------------------------
+</tspan></tspan><tspan
+         x="17.160156"
+         y="95.920203"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">
+</tspan></tspan><tspan
+         x="17.160156"
+         y="101.23385"><tspan
+           style="fill:#ff0000;fill-opacity:1">$1103</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">     ; Name of the piece of music
+</tspan></tspan><tspan
+         x="17.160156"
+         y="106.54749"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">NAME      .byt CLR_CH
+</tspan></tspan><tspan
+         x="17.160156"
+         y="111.86114"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          .asc &quot;MARY HAD A LITTLE LAMB
+</tspan></tspan><tspan
+         x="17.160156"
+         y="117.17478"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          .byt RTN_CH, 00
+</tspan></tspan><tspan
+         x="17.160156"
+         y="122.48842"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">
+</tspan></tspan><tspan
+         x="17.160156"
+         y="127.80207"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ; Mary had a Little Lamb
+</tspan></tspan><tspan
+         x="17.160156"
+         y="133.11571"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          ; stored as note,length,note,length,...
+</tspan></tspan><tspan
+         x="17.160156"
+         y="138.42936"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';fill:#ff0000;fill-opacity:1">$1103</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">     ; and terminated by a 0
+</tspan></tspan><tspan
+         x="17.160156"
+         y="143.743"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">NOTES     .byt $CC,$1E,$C6,$1E,$BF,$1E,$C6,$1E
+</tspan></tspan><tspan
+         x="17.160156"
+         y="149.05665"><tspan
+           style="fill:#ff0000;fill-opacity:1">Up</tspan><tspan
+           style="fill:#ff0000;fill-opacity:1"> 25</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">     .byt $CC,$1E,$CC,$1E,$CC,$3C
+</tspan></tspan><tspan
+         x="17.160156"
+         y="154.37029"><tspan
+           style="fill:#ff0000;fill-opacity:1">bytes to</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">  .byt $C6,$1E,$C6,$1E,$C6,$3C
+</tspan></tspan><tspan
+         x="17.160156"
+         y="159.68394"><tspan
+           style="fill:#ff0000;fill-opacity:1">$111C</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">     .byt $CC,$1E,$D5,$1E,$D5,$3C
+</tspan></tspan><tspan
+         x="17.160156"
+         y="164.99758"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          .byt $CC,$1E,$C6,$1E,$BF,$1E,$C6,$1E
+</tspan></tspan><tspan
+         x="17.160156"
+         y="170.31122"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          .byt $CC,$1E,$CC,$1E,$CC,$1E,$CC,$1E
+</tspan></tspan><tspan
+         x="17.160156"
+         y="175.62487"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          .byt $C6,$1E,$C6,$1E,$CC,$1E,$C6,$1E
+</tspan></tspan><tspan
+         x="17.160156"
+         y="180.93851"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">          .byt $BF,$78,$00
+</tspan></tspan><tspan
+         x="17.160156"
+         y="186.25216"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold'">
+</tspan></tspan></text>
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.673519;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect1397"
+       width="12.764984"
+       height="0.52916664"
+       x="193.839"
+       y="119.432"
+       ry="0" />
+  </g>
+</svg>
