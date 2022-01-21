@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="640"
+   height="720"
+   viewBox="0 0 169.33333 190.50001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="text_in_scrollup.svg"
+   inkscape:export-filename="/home/lorry/data/video/techtinkering/2022/80_columns_vic_20/images/text_in_scrollup.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="640px"
+     inkscape:zoom="0.74835468"
+     inkscape:cx="610.00487"
+     inkscape:cy="347.42884"
+     inkscape:window-width="1680"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="42.255051"
+       y="43.333793"
+       width="603.81356"
+       height="674.37513"
+       id="rect6656" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.8677825,9.346599)"
+       id="text6654"
+       style="font-size:12px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';white-space:pre;shape-inside:url(#rect6656)"><tspan
+         x="42.255859"
+         y="53.951172"
+         id="tspan5525">80 columns on the Commodore VIC-20!
+</tspan><tspan
+         x="42.255859"
+         y="68.951172"
+         id="tspan5527">
+</tspan><tspan
+         x="42.255859"
+         y="83.951172"
+         id="tspan5529">Supports Newline (software definable), Backspace, Tabs to next eighth column and
+</tspan><tspan
+         x="42.255859"
+         y="98.951172"
+         id="tspan5531"> ASCII 32-126 with case folded into a single case.  The fonts are 2*8 and uses h
+</tspan><tspan
+         x="42.255859"
+         y="113.95117"
+         id="tspan5533">eight and descenders to help differentiate the characters.  The numbers are tall
+</tspan><tspan
+         x="42.255859"
+         y="128.95117"
+         id="tspan5535">er for the same reason.
+</tspan><tspan
+         x="42.255859"
+         y="143.95117"
+         id="tspan5537">
+</tspan><tspan
+         x="42.255859"
+         y="158.95117"
+         id="tspan5539">The standard text mode is 80*22 with the ability to switch to 20 column mode whi
+</tspan><tspan
+         x="42.255859"
+         y="173.95117"
+         id="tspan5541">ch views the 80 column screen through a movable window using the standard 8*8 fo
+</tspan><tspan
+         x="42.255859"
+         y="188.95117"
+         id="tspan5543">nt.
+</tspan><tspan
+         x="42.255859"
+         y="203.95117"
+         id="tspan5545">
+</tspan><tspan
+         x="42.255859"
+         y="218.95117"
+         id="tspan5547">The alphabet:
+</tspan><tspan
+         x="42.255859"
+         y="233.95117"
+         id="tspan5549">  a b c d e f g h i j k l m n o p q r s t u v w x y z
+</tspan><tspan
+         x="42.255859"
+         y="248.95117"
+         id="tspan5551">  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+</tspan><tspan
+         x="42.255859"
+         y="263.95117"
+         id="tspan5553">The numbers:
+</tspan><tspan
+         x="42.255859"
+         y="278.95117"
+         id="tspan5555">  0 1 2 3 4 5 6 7 8 9
+</tspan><tspan
+         x="42.255859"
+         y="293.95117"
+         id="tspan5557">The rest:
+</tspan><tspan
+         x="42.255859"
+         y="308.95117"
+         id="tspan5559">  ! &quot; # $ % &amp; ' ( ) * + , - . / : ; &lt; = &gt; ? @ [ \ ] ^ _ ` { | } ~
+</tspan><tspan
+         x="42.255859"
+         y="323.95117"
+         id="tspan5561">
+</tspan><tspan
+         x="42.255859"
+         y="338.95117"
+         id="tspan5563">Where there's a will there's a way!
+</tspan></text>
+  </g>
+</svg>
