@@ -121,18 +121,18 @@
          id="flowPara966-3"
          style="font-size:53.3333px;fill:#000000;fill-opacity:1">VIC-20</flowPara></flowRoot>
     <rect
-       style="fill:#000000;fill-opacity:1;stroke-width:0.0543572;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0360196;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1004-3-3"
-       width="338.66666"
+       width="148.70877"
        height="20.634598"
        x="5.0862632e-06"
-       y="314.59766"
+       y="144.59999"
        ry="1.2281824e-14" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot960-6-6"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-107.77615,315.57978)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-194.02522,145.58212)"><flowRegion
          id="flowRegion962-7-7"
          style="fill:#ffffff;fill-opacity:1"><rect
            id="rect964-5-5"
@@ -142,7 +142,7 @@
            y="4.2536592"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara966-3-3"
-         style="font-size:53.3333px;fill:#ffffff;fill-opacity:1">Work in Progress 1</flowPara></flowRoot>
+         style="font-size:53.3333px;fill:#ffffff;fill-opacity:1">Work in Progress</flowPara></flowRoot>
     <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,1.2849259,113.19123)"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.3333px;line-height:1;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
