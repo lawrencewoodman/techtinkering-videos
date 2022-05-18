@@ -41,7 +41,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="371.42857"
-     inkscape:cx="634.28571"
+     inkscape:cx="342.85714"
      inkscape:zoom="0.7"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.19607843"
@@ -143,7 +143,7 @@
        id="rect1262-3"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.026;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,1.4463338,112.89425)"
+       transform="matrix(0.26458333,0,0,0.26458333,1.4656305,112.89425)"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:1;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
        id="flowRoot968"
        xml:space="preserve"><flowRegion
@@ -156,6 +156,6 @@
            width="1248.0614"
            id="rect972" /></flowRegion><flowPara
          style="font-size:74.6667px;fill:#ffffff;fill-opacity:1"
-         id="flowPara976">File Comparison</flowPara></flowRoot>
+         id="flowPara976">File Comparison Utilities</flowPara></flowRoot>
   </g>
 </svg>
